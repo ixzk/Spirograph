@@ -10,7 +10,7 @@ class KKToolView: UIView {
     
     public weak var delegate: KKToolViewDelegate?
     
-    public static let normalHeight = 250.0
+    public static let normalHeight = 350.0
     public static let hideHeight = 100.0
     
     private var hiddingNow: Bool
